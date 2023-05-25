@@ -1,6 +1,6 @@
 "👋 Olá, eu sou Thyago Arraes!
 
-🌟 Apaixonado por tecnologia, estudante entusiasmado de programação de sistemas no SENAC GO e designer web.
+🌟 Apaixonado por tecnologia, estudante entusiasmado de programação de sistemas no SENAC GO e Designers WordPress.
 
 💻 Atualmente, estou imerso no emocionante mundo da programação de sistemas, mergulhando de cabeça em linguagens como Javascript.
     Adoro explorar os desafios de criar soluções eficientes e elegantes para problemas complexos.
